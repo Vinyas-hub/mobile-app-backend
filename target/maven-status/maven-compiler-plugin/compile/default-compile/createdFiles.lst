@@ -1,0 +1,5 @@
+org\vinyas\MyRemoteService$Extension.class
+META-INF\panache-archive.marker
+org\vinyas\LaptopResource.class
+org\vinyas\MyRemoteService.class
+org\vinyas\Laptop.class
